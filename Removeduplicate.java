@@ -5,7 +5,7 @@ public class Removeduplicate {
             if(arr[j]!=arr[i]){
                 i++;
                 arr[i]=arr[j];
-            }
+            } // hiiiii
         }
         return i+1;
     }
